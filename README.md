@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
    ### Hi 👋 I am John Hopkins
-        Full time linux user(not a fan of windows). 
+                  Full time linux user(not a fan of windows).
 - 🔭 I’m currently working full time and coding part time
 - 🌱 I’m currently learning cybersecurity, red team tatics using variation of kali linux tools
 - 🤝 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
