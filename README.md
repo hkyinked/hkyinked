@@ -24,7 +24,7 @@ Here are some ideas to get you started:
                   Full time linux user(not a fan of windows).
 - 🔭 I’m currently working on developing a full stack webpage, and creating a uniquely customized distro.
 - 🌱 I’m currently learning cybersecurity, red team hacking tactics using variation of kali linux tools. 
-- 🤝 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
+- 🤔 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
 - 🤝 Years of service here: [![Years Badge](https://badges.pufler.dev/years/hkyinked)](https://badges.pufler.dev). 
 
 <details open>
