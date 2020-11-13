@@ -3,6 +3,7 @@
 #![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hkyinked&show_icons=true&theme=radical)
 
 ---
+https://img.shields.io/badge/Contact%20Me-Nerdyjwebdesign-blue
 
 ---
 
@@ -26,12 +27,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cybersecurity, red team hacking tactics using variation of kali linux tools. 
 - 🤔 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
 - 🤝 Years of service here: [![Years Badge](https://badges.pufler.dev/years/hkyinked)](https://badges.pufler.dev). 
+- 📫 Best ways to reach me are: <p align= "center"> <img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red">  <img src = "https://img.shields.io/badge/Nerdyjwebdesign-black?&style=for-the-badge&logo=linux&logoColor=red">
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br><p align = "center">
-<img height="34" width="50" src="https://simpleicons.org/icons/docker.svg" />  <img height="34" width="50" src="https://simpleicons.org/icons/raspberrypi.svg" />   
-<img src = "https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=red&style=for-the-badge">  <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=red">  <img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=red">  <img src = "https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=red">  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red">
+<img height="34" width="50" src="https://simpleicons.org/icons/raspberrypi.svg" />   
+<img src = "https://img.shields.io/badge/arch-black?logo=arch-linux&logoColor=red&style=for-the-badge">  <img src = "https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=red">  <img src = "https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=red">  <img src = "https://img.shields.io/badge/shell_script%20-black.svg?&style=for-the-badge&logo=gnu-bash&logoColor=red">  <img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red">  <img height="34" width="50" src="https://simpleicons.org/icons/docker.svg" />
 <br>
 
   <img src = "https://github-readme-stats.vercel.app/api?username=hkyinked&show_icons=true&theme=tokyonight&line_height=27">
