@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   ### Hi 👋 I am John Hopkins
+   ### Salutations 👋 I am John Hopkins
                   Full time linux user(not a fan of windows).
 - 🔭 I’m currently working on developing a full stack webpage, and creating a uniquely customized distro.
 - 🌱 I’m currently learning cybersecurity, red team hacking tactics using variation of kali linux tools. 
