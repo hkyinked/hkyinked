@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br><p align = "center">
+<img height="34" width="50" src="https://simpleicons.org/icons/docker.svg" />  <img height="34" width="50" src="https://simpleicons.org/icons/raspberrypi.svg" />   
 <img src = "https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=red&style=for-the-badge">  <img src = "https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=red">  <img src = "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=red">  <img src = "https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=red">  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red">
 <br>
 
