@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br><p align = "center">
-<img height="34" width="50" src="https://simpleicons.org/icons/raspberrypi.svg" />   
-<img src = "https://img.shields.io/badge/arch-black?logo=arch-linux&logoColor=red&style=for-the-badge">  <img src = "https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=red">  <img src = "https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=red">  <img src = "https://img.shields.io/badge/shell_script%20-black.svg?&style=for-the-badge&logo=gnu-bash&logoColor=red">  <img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red">  <img height="34" width="50" src="https://simpleicons.org/icons/docker.svg" />
+<img src = "https://img.shields.io/badge/RaspberryPi-black.svg?&style=for-the-badge&logo=raspberrypi.svg&logoColor=red">   
+<img src = "https://img.shields.io/badge/arch-black?logo=arch-linux&logoColor=red&style=for-the-badge">  <img src = "https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=red">  <img src = "https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=red">  <img src = "https://img.shields.io/badge/shell_script%20-black.svg?&style=for-the-badge&logo=gnu-bash&logoColor=red">  <img src = "https://img.shields.io/badge/docker-black.svg?&style=for-the-badge&logo=docker&logoColor=red">
 <br>
 
   <img src = "https://github-readme-stats.vercel.app/api?username=hkyinked&show_icons=true&theme=tokyonight&line_height=27">
