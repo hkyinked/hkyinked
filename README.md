@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
 - 🤝 Years of service here: [![Years Badge](https://badges.pufler.dev/years/hkyinked)](https://badges.pufler.dev). 
 - 📫 Best ways to reach me are: <p align= "center"> <a href="https://www.linkedin.com/in/john-hopkins-nerdyjohn">
-<img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red"> </a>  <a href="https://www.nerdyjwebdesign.com"><img src = "https://img.shields.io/badge/Nerdyjwebdesign-black?&style=for-the-badge&logo=linux&logoColor=red"> </a>
+<img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red"> </a>  <a href="https://www.nerdyj.com"><img src = "https://img.shields.io/badge/Nerdyj-black?&style=for-the-badge&logo=linux&logoColor=red"> </a>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
