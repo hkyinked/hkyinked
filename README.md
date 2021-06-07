@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
 
    ### Salutations 👋 I am John Hopkins
                   Full time linux user(not a fan of windows).
-- 🔭 I’m currently working on developing a full stack webpage, and creating a uniquely customized distro.
-- 🌱 I’m currently learning cybersecurity, red team hacking tactics using variation of kali linux tools. 
-- 🤔 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics. 
+- 🔭 I’m currently working on developing a GUI to install all tools needed on a fresh installed Distro.
+- 🌱 I’m currently learning cybersecurity, Malware Analysis, and red team hacking tactics using variation of kali linux tools. 
+- 🤔 I’m looking to collaborate on red team cybersecurity techniques, creative tools, and hacking and any general linux topics as well as Malware Analysis. 
 - 🤝 Years of service here: [![Years Badge](https://badges.pufler.dev/years/hkyinked)](https://badges.pufler.dev). 
 - 📫 Best ways to reach me are: <p align= "center"> <a href="https://www.linkedin.com/in/john-hopkins-nerdyjohn">
 <img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red"> </a>  <a href="https://www.nerdyj.com"><img src = "https://img.shields.io/badge/Nerdyj-black?&style=for-the-badge&logo=linux&logoColor=red"> </a>
