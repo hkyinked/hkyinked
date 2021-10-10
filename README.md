@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 - 📫 Best ways to reach me are: <p align= "center"> <a href="https://www.linkedin.com/in/john-hopkins-nerdyjohn">
 <img src = "https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=red"> </a>  <a href="https://www.nerdyj.com"><img src = "https://img.shields.io/badge/Nerdyj-black?&style=for-the-badge&logo=linux&logoColor=red"> </a>
    
-  Views:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnerdyj.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=nerdyj&edge_flat=false)](https://hits.seeyoufarm.com) 💾 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziptiedperformance.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=ZipTied&edge_flat=false)](https://hits.seeyoufarm.com)
+ Site views:
+     
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnerdyj.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=nerdyj&edge_flat=false) 💾 
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziptiedperformance.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=ZipTied&edge_flat=false)
    
 
 <details open>
