@@ -35,8 +35,10 @@ Here are some ideas to get you started:
    
  Site views:
      
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnerdyj.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=nerdyj&edge_flat=false) 💾 
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziptiedperformance.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=ZipTied&edge_flat=false)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnerdyj.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=nerdyj&edge_flat=false)](https://nerdyj.com) 💾 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fziptiedperformance.com&count_bg=%2379C83D&title_bg=%23555555&icon=linux.svg&icon_color=%23E7E7E7&title=ZipTied&edge_flat=false)](https://ziptiedperformance.com)
+
+
    
 
 <details open>
